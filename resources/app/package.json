@@ -1,0 +1,7 @@
+{
+  "name": "interview-workbench",
+  "productName": "采访工作台",
+  "version": "0.1.0",
+  "main": "main.cjs",
+  "private": true
+}
